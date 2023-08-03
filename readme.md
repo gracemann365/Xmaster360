@@ -6,9 +6,9 @@
 
 - [ ] Learn ReactJS Crash (just enough BlackBox, GPT, and Google), Material UI,
 
-- [✅] Coding
+- [ ] Coding
 
-    - [✅] Phase - 1
+    - [ ] Phase - 1
 
     - [ ] Phase - 2
 
