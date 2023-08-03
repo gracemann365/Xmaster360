@@ -1,6 +1,6 @@
 ### Mind-Tree ###
 
-- [X] Brain-map entire Process
+- [✅] Brain-map entire Process
 
 - [ ] Learn JavaScript Crash (just enough BlackBox, GPT, and Google)
 
@@ -8,7 +8,7 @@
 
 - [ ] Coding
 
-    - [ ] Phase - 1
+    - [✅] Phase - 1
 
     - [ ] Phase - 2
 
