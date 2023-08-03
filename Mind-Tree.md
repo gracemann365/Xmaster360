@@ -2,9 +2,13 @@
 
 - [✅] Brain-map entire Process
 
-- [ ] Learn JavaScript Crash (just enough BlackBox, GPT, and Google)
+- [ ] JavaScript Crash
+      
+     - [ ] Theoretical / Documentation / Blogs ( quick review )
+           
+     - [ ] Tutorial ( singular source ) -> GPT , Google 
 
-- [ ] Learn ReactJS Crash (just enough BlackBox, GPT, and Google), Material UI,
+- [ ] ReactJS Crash , Material UI
 
 - [ ] Coding
 
