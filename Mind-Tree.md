@@ -6,7 +6,7 @@
       
      - [ ] Theoretical / Documentation / Blogs ( quick review )
            
-     - [ ] Tutorial ( singular source ) -> GPT , Google 
+     - [ ] Tutorial ( 9/3 ) -> GPT , Google 
 
 - [ ] ReactJS Crash , Material UI
 
