@@ -4,11 +4,15 @@
 
 - [ ] JavaScript Crash
       
-     - [ ] Theoretical / Documentation / Blogs ( quick review )
+     - [ ] intermediate documentaion ( blogs/articles/notes)
            
      - [ ] Tutorial ( 9/3 ) -> GPT , Google 
 
-- [ ] ReactJS Crash , Material UI
+- [ ] Frameworks
+     
+     - [ ] ReactJS ( video Crash ) 
+     
+     - [ ] Material UI 
 
 - [ ] Coding
 
